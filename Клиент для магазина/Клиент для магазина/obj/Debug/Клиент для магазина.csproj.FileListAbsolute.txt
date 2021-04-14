@@ -1,0 +1,12 @@
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\bin\Debug\Клиент для магазина.exe.config
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\bin\Debug\Клиент для магазина.exe
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\bin\Debug\Клиент для магазина.pdb
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент для магазина.csprojAssemblyReference.cache
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент_для_магазина.Form1.resources
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент_для_магазина.Properties.Resources.resources
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент для магазина.csproj.GenerateResource.cache
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент для магазина.csproj.CoreCompileInputs.cache
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент для магазина.exe
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент для магазина.pdb
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент_для_магазина.Buy.resources
+C:\Users\bbarz\Desktop\clothing_store\Клиент для магазина\Клиент для магазина\obj\Debug\Клиент_для_магазина.Catalog.resources
